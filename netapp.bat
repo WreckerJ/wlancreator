@@ -6,7 +6,6 @@ cls
 set CHOICE="   "
 echo                 ******************************************
 echo                 *   ~~#NETWORK APP#~~: by Quacoo boat    *
-echo                 *          (October 17, 2015)            *  
 echo                 ******************************************
 echo.
 echo.
